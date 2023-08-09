@@ -7,9 +7,9 @@ public class IntRepresentation {
         char a = 'a';
         char r = 'r';
 
-        System.out.println("Integer representation of 'c': " + (int) c);
-        System.out.println("Integer representation of 'h': " + (int) h);
-        System.out.println("Integer representation of 'a': " + (int) a);
-        System.out.println("Integer representation of 'r': " + (int) r);
+        System.out.print(c);
+        System.out.print(h);
+        System.out.print(a);
+        System.out.print(r);
     }
 }
